@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: If I may be excused for selling myself too much
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Deep Learning practitioner/researcher currently, have developed mobile apps (Android and IOS), web apps, worked on building backend infrastructures in the past.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+A 2014 graduate from IIT Bombay, I have mostly worked at startups, leading product dev at Wegilant, mobile dev at Leaf Technologies and perception/software for [Butler Pickpal](https://www.youtube.com/watch?v=SDEJ8VRhYAA) at GreyOrange.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Computer vision for indoor robotics is what I currently work on.
+Would love any discussion on segmenting and grasping novel objects in cluttered scenes.
