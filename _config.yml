@@ -7,8 +7,9 @@ baseurl:     ""
 url:         "https://avilashkumar.com"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
- - contact.html
+  - hacks.md
+  - about.md
+  - contact.md
 
 # Google services
 google_verification:
